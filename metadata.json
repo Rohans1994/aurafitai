@@ -1,0 +1,9 @@
+{
+  "name": "AuraFit AI",
+  "description": "An all-in-one AI health companion that tracks nutrition via vision, generates adaptive workouts, and provides real-time coaching using advanced LLMs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
